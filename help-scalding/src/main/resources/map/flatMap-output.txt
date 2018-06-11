@@ -1,0 +1,5 @@
+john,4,"orange,apple",orange
+john,4,"orange,apple",apple
+liza,5,"banana,mango",banana
+liza,5,"banana,mango",mango
+nina,5,orange,orange

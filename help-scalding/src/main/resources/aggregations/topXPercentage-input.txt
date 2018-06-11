@@ -1,0 +1,8 @@
+student9,930
+student8,821
+student,731
+student10,719
+student6,642
+student5,553
+student4,464
+student1,196

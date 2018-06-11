@@ -1,0 +1,2 @@
+apple	List((liza,5), (nina,5))
+orange	List((john,4))
